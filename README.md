@@ -13,20 +13,6 @@ Aquí encontrarás diseños únicos para darle un estilo diferente a tu consola.
 
 ---
 
-## 📁 Estructura del repositorio
-
-```
-themes/
-│
-├── anime/
-├── videojuegos/
-├── minimalistas/
-├── personalizados/
-└── otros/
-```
-
----
-
 ## ⚙️ Requisitos
 
 Para usar estos temas necesitas:
